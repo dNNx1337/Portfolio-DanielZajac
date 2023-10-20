@@ -17,7 +17,8 @@ Kolejna odpowiedz
 
 
 
-# ![image](https://github.com/dNNx1337/Portfolio-DanielZajac/assets/63973875/b0f6578c-5e2c-4c76-a0e1-a139fd9cfa6e)
+# [![image](https://github.com/dNNx1337/Portfolio-DanielZajac/assets/63973875/b0f6578c-5e2c-4c76-a0e1-a139fd9cfa6e)](https://www.linkedin.com/in/zajacdaniel/)
+
 
 
 ### [:ok:Wejdz tu](https://www.linkedin.com/in/zajacdaniel/)
