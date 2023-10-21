@@ -18,7 +18,7 @@ Kolejna odpowiedz
 
 ### <p align="center">[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height=25 />](https://www.linkedin.com/in/zajacdaniel/)[LinkedIn](https://www.linkedin.com/in/zajacdaniel/) [<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height=25 />](d.zajac1337@gmail.com)[Email](d.zajac1337@gmail.com)</p>
 
-### <p align="center">[<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height=25 />](d.zajac1337@gmail.com)[Email](d.zajac1337@gmail.com)</p>
+### <p align="center">[<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height=25 />](d.zajac1337@gmail.com)[Email](mailto:d.zajac1337@gmail.com)</p>
 
 
 ## Przykłady test casow
