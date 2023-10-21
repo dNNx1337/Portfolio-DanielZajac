@@ -16,12 +16,10 @@ Kolejna odpowiedz
 </details>
 
 
+### <p align="center">[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height=25 />](https://www.linkedin.com/in/zajacdaniel/)[LinkedIn](https://www.linkedin.com/in/zajacdaniel/) [<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height=25 />](d.zajac1337@gmail.com)[Email](d.zajac1337@gmail.com)</p>
 
-# [![image](https://github.com/dNNx1337/Portfolio-DanielZajac/assets/63973875/b0f6578c-5e2c-4c76-a0e1-a139fd9cfa6e)](https://www.linkedin.com/in/zajacdaniel/)
+### <p align="center">[<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height=25 />](d.zajac1337@gmail.com)[Email](d.zajac1337@gmail.com)</p>
 
-
-
-### [:ok:Wejdz tu](https://www.linkedin.com/in/zajacdaniel/)
 
 ## Przykłady test casow
 
