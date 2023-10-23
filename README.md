@@ -18,7 +18,7 @@ Kolejna odpowiedz
 ### <p align="center">[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height=25 />](https://www.linkedin.com/in/zajacdaniel/)[Visit my LinkedIn profile](https://www.linkedin.com/in/zajacdaniel/)
 ### <p align="center">[<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height=25 />](mailto:d.zajac1337@gmail.com)[Mail to me](mailto:d.zajac1337@gmail.com)</p>
 
-## Courses
+# Courses
 ### October 2023
 <details>
 <summary>Practical software testing course - Udemy</summary>
@@ -28,27 +28,31 @@ Kolejna odpowiedz
 
 SQL Course - In progress
 
-## Test case example
+# Test case example
 
-## Reporting bugs example
+# Reporting bugs example
 
-## Tools
+# Tools
 * Jira
 * GitHub
 * MySQL
 * Postman
 * ShareX
 * Chrome DevTools
-## Skills
-Rozumienie metodologi
+# Tech Skills
 
-## Kompetencje miękkie
-Praca w grupie
+# Soft skills
+* Communication and teamwork
+* Ability to learn new tools, systems and processes quickly
+* Well-organized
+# Top 5 Gallup Strenght
 
-## Skąd pozyskuje wiedze
-Kanały YT takie jak:
+# Youtube channels
+[Software Testing Mentor](https://www.youtube.com/@softwaretestingmentor)
 
-## Grupy z których korzystam
-Tu odnośniki
+# Groups about testing on Facebook
+* [Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223)
+* [Testowanie oprogramowania - Wsparcie na starcie](https://www.facebook.com/groups/417833158717454)
+* [Testowanie oprogramowania - Wsparcie | Porady](https://www.facebook.com/groups/509489587391848)
 
 
