@@ -30,10 +30,13 @@ SQL Course - In progress
 
 # My Documentacion
 
-Test case example
+Test cases
 
-Reporting bugs example
+Test scenarios
 
+Bugs reports
+
+Test reports
 # Tools
 * Jira
 * GitHub
