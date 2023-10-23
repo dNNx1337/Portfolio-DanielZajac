@@ -1,6 +1,6 @@
-# Portfolio przyszłego testera manualnego - Daniel Zając
+# Junior software tester Portfolio - Daniel Zając
 
-## :mag_right: O mnie
+## :mag_right: About me
 Jestem 31 letnim kucharzem który po 8 latach w braży gastronomicznej postanowił przebranżowić się na testera manualnego. Wynika to z chęci zadbania o swój komfort ponieważ praca kucharza wiąze się z późnymi i długimi godzinami pracy wliczając wszelkiego rodzaju święta
 <details>
 <summary>Skąd pomysł na IT i dlaczego akurat tester manualny ?</summary>
@@ -15,20 +15,31 @@ Tu odpowiedz
 Kolejna odpowiedz
 </details>
 
+### <p align="center">[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height=25 />](https://www.linkedin.com/in/zajacdaniel/)[Visit my LinkedIn profile](https://www.linkedin.com/in/zajacdaniel/)
+### <p align="center">[<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height=25 />](mailto:d.zajac1337@gmail.com)[Mail to me](mailto:d.zajac1337@gmail.com)</p>
 
-### <p align="center">[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height=25 />](https://www.linkedin.com/in/zajacdaniel/)[LinkedIn](https://www.linkedin.com/in/zajacdaniel/)[<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height=25 />](mailto:d.zajac1337@gmail.com)[Email](mailto:d.zajac1337@gmail.com)</p>
+## Courses
+### October 2023
+<details>
+<summary>Practical software testing course - Udemy</summary>
+  
+[<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-e37d9be1-1b63-40eb-a2be-939769d4b09c.jpg?v=1696945648000" height=550 />](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
+</details>
 
-## Przykłady test casow
+SQL Course - In progress
 
-## przyklady zgłaszania błędów
+## Test case example
 
-# 
+## Reporting bugs example
 
-## Narzędzia z których korzystam
-Chrome Dev Tools
-Jira
-
-## Umiejętności techniczne
+## Tools
+* Jira
+* GitHub
+* MySQL
+* Postman
+* ShareX
+* Chrome DevTools
+## Skills
 Rozumienie metodologi
 
 ## Kompetencje miękkie
