@@ -19,7 +19,7 @@ Kolejna odpowiedz
 ### <p align="center">[<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height=25 />](mailto:d.zajac1337@gmail.com)[Mail to me](mailto:d.zajac1337@gmail.com)</p>
 
 # Courses
-### October 2023
+**October 2023**
 <details>
 <summary>Practical software testing course - Udemy</summary>
   
@@ -28,9 +28,11 @@ Kolejna odpowiedz
 
 SQL Course - In progress
 
-# Test case example
+# My Documentacion
 
-# Reporting bugs example
+Test case example
+
+Reporting bugs example
 
 # Tools
 * Jira
