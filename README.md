@@ -6,14 +6,7 @@ Jestem 31 letnim kucharzem który po 8 latach w braży gastronomicznej postanowi
 <summary>Skąd pomysł na IT i dlaczego akurat tester manualny ?</summary>
 Swój wolny czas w większości spędzam przed ekranem komputera, jestem raczej typem domatora i gracza. Świat MMO rozbudziłem we mnie ciekawośc jak to wszystko działa.
 </details>
-<details>
-<summary>Czy czujesz że ten zawód jest dla ciebie ?</summary>
-Tu odpowiedz
-</details>
-<details>
-<summary>Koleje pytanie</summary>
-Kolejna odpowiedz
-</details>
+
 
 ### <p align="center">[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height=25 />](https://www.linkedin.com/in/zajacdaniel/)[Visit my LinkedIn profile](https://www.linkedin.com/in/zajacdaniel/)
 ### <p align="center">[<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height=25 />](mailto:d.zajac1337@gmail.com)[Mail to me](mailto:d.zajac1337@gmail.com)</p>
