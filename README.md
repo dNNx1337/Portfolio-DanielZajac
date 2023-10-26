@@ -54,3 +54,6 @@ Test reports
 * [Testowanie oprogramowania - Wsparcie | Porady](https://www.facebook.com/groups/509489587391848)
 
 
+# <p align="center">![](https://komarev.com/ghpvc/?username=dNNx1337)</p>
+
+
